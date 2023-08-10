@@ -1,0 +1,9 @@
+body {
+  background: darkblue;
+}
+
+#players {
+  width: 30vw;
+  height: 100vh;
+  background: white;
+}
